@@ -1,0 +1,19 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:p="http://primefaces.org/ui">
+<!--ESTOS HEADERS SIEMPRE SE PONEN!-->
+     <h:head>
+     </h:head>
+     <h:body>
+     	<p:calendar mode="inline"/><br/>
+        <p:calendar /><br/>
+<!--         pattern a nivel de calendario es la funcionalidad para seleccionar hora, minuto y segundo -->
+<!--         pattern a nivel de convertDateTime es el formato para que se muestre en el textbox -->
+        <p:calendar showOn="button"/><br/>
+        <p:calendar pattern="dd/MM/yyyy HH:mm:ss">
+        	<f:convertDateTime pattern="dd/MM/yyyy HH:mm:ss"></f:convertDateTime>
+        </p:calendar>
+        <p:calendar effect="explode"/>
+     </h:body>
+</html>

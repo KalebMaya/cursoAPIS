@@ -1,0 +1,5 @@
+package com.everis.springcloudconfigrest.controller;
+
+public class ConfiguracionRestController {
+
+}

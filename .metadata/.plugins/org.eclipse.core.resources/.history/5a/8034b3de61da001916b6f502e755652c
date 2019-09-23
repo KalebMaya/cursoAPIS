@@ -1,0 +1,19 @@
+package com.everis.equipouno.controller;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class CursoControllerTest {
+
+	@Test
+	public void testListar() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testInsertar() {
+		fail("Not yet implemented");
+	}
+
+}

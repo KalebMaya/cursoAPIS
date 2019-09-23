@@ -1,0 +1,15 @@
+package com.everis.equipo1frontendsemana2.controller;
+
+import java.util.List;
+
+import javax.annotation.ManagedBean;
+
+@ManagedBean
+public class autoCompleteController {
+
+	String [] lenguajes = {"php", "java", "python", "c sharp", "go", "kotlin", "cobol"};
+	
+	public List<String> completar() {
+		
+	}
+}

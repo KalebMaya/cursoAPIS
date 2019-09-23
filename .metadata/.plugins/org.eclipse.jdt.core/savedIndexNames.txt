@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Dell5458\Desktop\trabajos Kaleb\.metadata\.plugins\org.eclipse.jdt.core
+2669902983.index
+2537918304.index
+310572350.index
+456061647.index

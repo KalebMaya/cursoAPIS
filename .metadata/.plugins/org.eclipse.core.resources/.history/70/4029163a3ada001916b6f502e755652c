@@ -1,0 +1,5 @@
+package com.everis.equipouno.repository;
+
+public interface AlumnoRepository {
+
+}

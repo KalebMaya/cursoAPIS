@@ -1,0 +1,23 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:h="http://java.sun.com/jsf/html"
+    xmlns:f="http://java.sun.com/jsf/core"
+    xmlns:p="http://primefaces.org/ui">
+<!--ESTOS HEADERS SIEMPRE SE PONEN!-->
+     <h:head>
+     </h:head>
+     <h:body>
+     <h:form>
+         <p:dataTable value="#{cursosViewController.cursos}" var="curso">
+         	<p:column headerText="Id Curso">
+         		<h:outputText value="#{curso.id}"/>
+         	</p:column>
+         	<p:column headerText="Nombre">
+         		<h:outputText value="#{curso.nombrecurso}"/>
+         	</p:column>
+         	<p:column headerText="Descripcion">
+         		<h:outputText value="#{curso.descripcion}"/>
+         	</p:column>
+         </p:dataTable>
+     </h:form>
+     </h:body>
+</html>

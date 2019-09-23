@@ -1,0 +1,27 @@
+package com.everis.equipo1frontendsemana2.controller;
+
+import javax.annotation.ManagedBean;
+import javax.faces.application.FacesMessage;
+import javax.faces.context.FacesContext;
+
+import org.primefaces.event.RateEvent;
+
+//controlador del lado del frontend 
+@ManagedBean
+public class RatingController {
+	private int calificacion;
+	
+	public void calificar(RateEvent evento) {
+		FacesMessage message = new FacesMessage(FacesMessage.SEVERITY_INFO, "Calificacion"
+				, "Tu calificacion fue: " + calificacion);
+		FacesContext.getCurrentInstance().addMessage(null, message);
+	}
+
+	public int getCalificacion() {
+		return calificacion;
+	}
+
+	public void setCalificacion(int calificacion) {
+		this.calificacion = calificacion;
+	}
+}

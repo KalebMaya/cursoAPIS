@@ -1,0 +1,7 @@
+spring.cloud.config.url=http://localhost:8888
+#Nombre de la aplicacion debe coincidir con el nombre del archivo en github
+spring.application.name=spring-cloud-config-rest
+spring.profiles.active=dev
+#para que /actuator habilite mas endpoints para saber mas del estado del microservicio
+management.endpoints.web.exposure.include=*
+
