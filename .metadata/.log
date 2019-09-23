@@ -6887,3 +6887,54 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 15:50:48.745
 !MESSAGE executing callback sts4.classpath.KPnLIKjD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:13:11.402
+!MESSAGE Preparing classpath changed notification 1-spring-cloud-config-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:13:11.422
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:13:11.435
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:13:11.447
+!MESSAGE buffering callback sts4.classpath.KPnLIKjD 1-spring-cloud-config-server false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:13:11.457
+!MESSAGE executing callback sts4.classpath.KPnLIKjD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:13:11.472
+!MESSAGE executing callback sts4.classpath.KPnLIKjD SUCCESS [done]
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2019-09-23 17:14:34.106
+!MESSAGE Internal Error
+!STACK 0
+org.eclipse.jface.text.BadPartitioningException
+	at org.eclipse.jface.text.AbstractDocument.getPartition(AbstractDocument.java:1392)
+	at org.eclipse.jdt.internal.ui.propertiesfileeditor.PropertiesFileHover.getHoverInfo(PropertiesFileHover.java:135)
+	at org.eclipse.jdt.internal.ui.propertiesfileeditor.PropertiesFileHover.getHoverInfo2(PropertiesFileHover.java:108)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2019-09-23 17:14:38.659
+!MESSAGE Internal Error
+!STACK 0
+org.eclipse.jface.text.BadPartitioningException
+	at org.eclipse.jface.text.AbstractDocument.getPartition(AbstractDocument.java:1392)
+	at org.eclipse.jdt.internal.ui.propertiesfileeditor.PropertiesFileHover.getHoverInfo(PropertiesFileHover.java:135)
+	at org.eclipse.jdt.internal.ui.propertiesfileeditor.PropertiesFileHover.getHoverInfo2(PropertiesFileHover.java:108)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:16:08.011
+!MESSAGE Preparing classpath changed notification 1-spring-cloud-config-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:16:08.031
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:16:08.043
+!MESSAGE buffering callback sts4.classpath.KPnLIKjD 1-spring-cloud-config-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:16:08.054
+!MESSAGE executing callback sts4.classpath.KPnLIKjD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:16:08.067
+!MESSAGE executing callback sts4.classpath.KPnLIKjD SUCCESS [done]
