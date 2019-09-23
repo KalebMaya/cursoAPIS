@@ -6938,3 +6938,139 @@ org.eclipse.jface.text.BadPartitioningException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:16:08.067
 !MESSAGE executing callback sts4.classpath.KPnLIKjD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:39.644
+!MESSAGE Preparing classpath changed notification 1-practica-cloud-config-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:39.657
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:39.695
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:39.714
+!MESSAGE buffering callback sts4.classpath.KPnLIKjD 1-practica-cloud-config-rest false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:39.727
+!MESSAGE executing callback sts4.classpath.KPnLIKjD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:39.765
+!MESSAGE executing callback sts4.classpath.KPnLIKjD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:46.220
+!MESSAGE Preparing classpath changed notification 1-practica-cloud-config-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:46.233
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:46.251
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:46.263
+!MESSAGE buffering callback sts4.classpath.KPnLIKjD 1-practica-cloud-config-rest false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:46.274
+!MESSAGE executing callback sts4.classpath.KPnLIKjD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:23:46.293
+!MESSAGE executing callback sts4.classpath.KPnLIKjD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:33.011
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KPnLIKjD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:33.026
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.KPnLIKjD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:33.037
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:33.054
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.KPnLIKjD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:38.425
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:38.438
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@27f43664[org.springframework.tooling.boot.ls:1.10.0.201908130624(id=624)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:38.455
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.267
+!MESSAGE Boot LS startup time from start to initialized: 2795ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.318
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BXFhcGSsisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.333
+!MESSAGE subscribing to classpath changes: sts4.classpath.BXFhcGSs isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.347
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.362
+!MESSAGE subsribers = {sts4.classpath.BXFhcGSs=Send Classpath Notifications(1421)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.373
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.384
+!MESSAGE project 1-practica-cloud-config-server ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.394
+!MESSAGE Preparing classpath changed notification 1-practica-cloud-config-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.402
+!MESSAGE project 1-practica-cloud-config-rest ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.411
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.421
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.430
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.437
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.447
+!MESSAGE buffering callback sts4.classpath.BXFhcGSs 1-practica-cloud-config-server false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.456
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.463
+!MESSAGE Preparing classpath changed notification 1-practica-cloud-config-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.470
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BXFhcGSs => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.478
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.489
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.501
+!MESSAGE buffering callback sts4.classpath.BXFhcGSs 1-practica-cloud-config-rest false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.511
+!MESSAGE executing callback sts4.classpath.BXFhcGSs 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-23 17:24:41.554
+!MESSAGE executing callback sts4.classpath.BXFhcGSs SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-09-23 17:24:47.389
+!MESSAGE 
+!STACK 0
+java.lang.InterruptedException
+	at java.util.concurrent.CompletableFuture.reportGet(Unknown Source)
+	at java.util.concurrent.CompletableFuture.get(Unknown Source)
+	at org.springframework.tooling.boot.ls.jdt.LSPTextHover.getHoverInfo(LSPTextHover.java:109)
+	at org.springframework.tooling.boot.ls.jdt.SpringBootJavaHoverProvider.getHoverInfo2(SpringBootJavaHoverProvider.java:42)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:167)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:133)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:169)
