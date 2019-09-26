@@ -5802,3 +5802,210 @@ org.eclipse.jface.text.BadPartitioningException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 16:40:18.521
 !MESSAGE executing callback sts4.classpath.OCPoIZQp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:20:26.893
+!MESSAGE Preparing classpath changed notification 1-spring-cloud-config-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:20:26.908
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:20:26.933
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:20:26.944
+!MESSAGE buffering callback sts4.classpath.OCPoIZQp 1-spring-cloud-config-rest false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:20:26.951
+!MESSAGE executing callback sts4.classpath.OCPoIZQp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:20:26.969
+!MESSAGE executing callback sts4.classpath.OCPoIZQp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:15.971
+!MESSAGE Preparing classpath changed notification 3-spring-cloud-eureka-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:15.988
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:15.997
+!MESSAGE buffering callback sts4.classpath.OCPoIZQp 3-spring-cloud-eureka-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:16.006
+!MESSAGE executing callback sts4.classpath.OCPoIZQp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:16.018
+!MESSAGE executing callback sts4.classpath.OCPoIZQp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:19.136
+!MESSAGE Preparing classpath changed notification 3-spring-cloud-exchange-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:19.149
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:19.158
+!MESSAGE buffering callback sts4.classpath.OCPoIZQp 3-spring-cloud-exchange-rest true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:19.164
+!MESSAGE executing callback sts4.classpath.OCPoIZQp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:19.174
+!MESSAGE executing callback sts4.classpath.OCPoIZQp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:22.304
+!MESSAGE Preparing classpath changed notification 4-spring-cloud-conversion-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:22.356
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:22.363
+!MESSAGE buffering callback sts4.classpath.OCPoIZQp 4-spring-cloud-conversion-rest true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:22.371
+!MESSAGE executing callback sts4.classpath.OCPoIZQp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:22.382
+!MESSAGE executing callback sts4.classpath.OCPoIZQp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.648
+!MESSAGE Preparing classpath changed notification 4-spring-cloud-zuul-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.657
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.666
+!MESSAGE buffering callback sts4.classpath.OCPoIZQp 4-spring-cloud-zuul-server true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.675
+!MESSAGE executing callback sts4.classpath.OCPoIZQp 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.687
+!MESSAGE executing callback sts4.classpath.OCPoIZQp SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.805
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.OCPoIZQp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.813
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.OCPoIZQp
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.822
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:21:25.831
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.OCPoIZQp => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:00.166
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:00.177
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@70199db0[org.springframework.tooling.boot.ls:1.10.0.201908130624(id=624)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:00.187
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.454
+!MESSAGE Boot LS startup time from start to initialized: 4256ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.493
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QrbRnPilisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.500
+!MESSAGE subscribing to classpath changes: sts4.classpath.QrbRnPil isBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.506
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.512
+!MESSAGE subsribers = {sts4.classpath.QrbRnPil=Send Classpath Notifications(2762)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.520
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.530
+!MESSAGE project 2-spring-cloud-config-rest ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.536
+!MESSAGE Preparing classpath changed notification 2-spring-cloud-config-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.542
+!MESSAGE project 1-spring-cloud-config-rest ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.548
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.554
+!MESSAGE project 1-spring-cloud-config-server ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.559
+!MESSAGE project Servers ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.566
+!MESSAGE project Servers SKIPPED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.572
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.582
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.588
+!MESSAGE buffering callback sts4.classpath.QrbRnPil 2-spring-cloud-config-rest false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.594
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.QrbRnPil => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.601
+!MESSAGE Preparing classpath changed notification 1-spring-cloud-config-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.608
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.617
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.625
+!MESSAGE buffering callback sts4.classpath.QrbRnPil 1-spring-cloud-config-rest false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.630
+!MESSAGE Preparing classpath changed notification 1-spring-cloud-config-server
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.636
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.645
+!MESSAGE classpath=101 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.653
+!MESSAGE buffering callback sts4.classpath.QrbRnPil 1-spring-cloud-config-server false 101
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.659
+!MESSAGE executing callback sts4.classpath.QrbRnPil 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:24:04.717
+!MESSAGE executing callback sts4.classpath.QrbRnPil SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:26:49.700
+!MESSAGE Preparing classpath changed notification 1-spring-cloud-config-rest
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:26:49.715
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:26:49.724
+!MESSAGE buffering callback sts4.classpath.QrbRnPil 1-spring-cloud-config-rest true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:26:49.732
+!MESSAGE executing callback sts4.classpath.QrbRnPil 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:26:49.745
+!MESSAGE executing callback sts4.classpath.QrbRnPil SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:35:44.858
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QrbRnPil
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:35:44.868
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.QrbRnPil
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:35:44.875
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-09-26 17:35:44.883
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.QrbRnPil => OK
