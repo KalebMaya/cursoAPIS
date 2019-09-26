@@ -1,9 +1,0 @@
-package com.everis.springcloudconfigrest.model;
-
-import org.springframework.stereotype.Component;
-
-//para subir al contexto si no se sabe bien especificamente que es, service, model o repository
-@Component
-public class Configuracion {
-
-}

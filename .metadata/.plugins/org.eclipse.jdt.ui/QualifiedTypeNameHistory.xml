@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.everis.springcore.service.ClienteService"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
-<fullyQualifiedTypeName name="com.everis.springcore.service.BancoService"/>
-<fullyQualifiedTypeName name="com.everis.springcore.dao.BancoDAO"/>
-<fullyQualifiedTypeName name="com.everis.springcore.model.Banco"/>
-<fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
-<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
 <fullyQualifiedTypeName name="com.everis.examen1.equipo1.service.CompraService"/>
@@ -60,4 +52,12 @@
 <fullyQualifiedTypeName name="javax.faces.application.FacesMessage"/>
 <fullyQualifiedTypeName name="javax.faces.context.FacesContext"/>
 <fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+<fullyQualifiedTypeName name="com.everis.practicacloudconfigrest.model.Configuracion"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="com.everis.springcloudexchangerest.service.ExchangeValueService"/>
+<fullyQualifiedTypeName name="org.springframework.core.env.Environment"/>
+<fullyQualifiedTypeName name="java.net.ConnectException"/>
+<fullyQualifiedTypeName name="org.springframework.web.client.ResourceAccessException"/>
+<fullyQualifiedTypeName name="com.everis.springcloudexchangerest.responses.CurrencyConversionResponse"/>
 </qualifiedTypeNameHistroy>

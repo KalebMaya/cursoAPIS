@@ -66,6 +66,11 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\1-spring-cloud-exchange-rest"/>
+			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\2-spring-cloud-conversion-rest"/>
+			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\1-spring-cloud-config-server"/>
+			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\1-spring-cloud-config-rest"/>
+			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\1-practica-cloud-config-server"/>
 			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\6-spring-boot-jpa-relaciones"/>
 			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb"/>
 		</list>

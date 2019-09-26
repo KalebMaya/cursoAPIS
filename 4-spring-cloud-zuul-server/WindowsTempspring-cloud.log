@@ -1,0 +1,68 @@
+2019-09-26 16:18:32,505 INFO com.everis.springcloudzuulserver.Application [restartedMain] No active profile set, falling back to default profiles: default
+2019-09-26 16:18:33,438 WARN org.springframework.boot.actuate.endpoint.EndpointId [restartedMain] Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+2019-09-26 16:18:33,450 WARN org.springframework.boot.actuate.endpoint.EndpointId [restartedMain] Endpoint ID 'hystrix.stream' contains invalid characters, please migrate to a valid format.
+2019-09-26 16:18:33,673 INFO org.springframework.cloud.context.scope.GenericScope [restartedMain] BeanFactory id=bf34e5c6-5287-32e1-9342-23bd7a8fb29e
+2019-09-26 16:18:33,909 INFO org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [restartedMain] Bean 'org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration' of type [org.springframework.cloud.autoconfigure.ConfigurationPropertiesRebinderAutoConfiguration$$EnhancerBySpringCGLIB$$190eebb2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-09-26 16:18:34,438 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8765 (http)
+2019-09-26 16:18:34,460 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-09-26 16:18:34,460 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.24]
+2019-09-26 16:18:34,725 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2019-09-26 16:18:34,725 INFO org.springframework.web.context.ContextLoader [restartedMain] Root WebApplicationContext: initialization completed in 2202 ms
+2019-09-26 16:18:34,847 WARN com.netflix.config.sources.URLConfigurationSource [restartedMain] No URLs will be polled as dynamic configuration sources.
+2019-09-26 16:18:34,848 INFO com.netflix.config.sources.URLConfigurationSource [restartedMain] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-09-26 16:18:34,858 INFO com.netflix.config.DynamicPropertyFactory [restartedMain] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@1d585e4b
+2019-09-26 16:18:35,819 WARN com.netflix.config.sources.URLConfigurationSource [restartedMain] No URLs will be polled as dynamic configuration sources.
+2019-09-26 16:18:35,820 INFO com.netflix.config.sources.URLConfigurationSource [restartedMain] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2019-09-26 16:18:36,042 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [restartedMain] Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-26 16:18:36,443 WARN org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] Unable to start LiveReload server
+2019-09-26 16:18:36,889 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [restartedMain] Starting filter initializer
+2019-09-26 16:18:36,907 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-09-26 16:18:37,036 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2019-09-26 16:18:37,085 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2019-09-26 16:18:37,156 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [RMI TCP Connection(3)-127.0.0.1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-26 16:18:37,157 INFO org.springframework.web.servlet.DispatcherServlet [RMI TCP Connection(3)-127.0.0.1] Initializing Servlet 'dispatcherServlet'
+2019-09-26 16:18:37,168 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON encoding codec LegacyJacksonJson
+2019-09-26 16:18:37,169 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using JSON decoding codec LegacyJacksonJson
+2019-09-26 16:18:37,172 INFO org.springframework.web.servlet.DispatcherServlet [RMI TCP Connection(3)-127.0.0.1] Completed initialization in 14 ms
+2019-09-26 16:18:37,333 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML encoding codec XStreamXml
+2019-09-26 16:18:37,333 INFO com.netflix.discovery.provider.DiscoveryJerseyProvider [restartedMain] Using XML decoding codec XStreamXml
+2019-09-26 16:18:37,553 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [restartedMain] Resolving eureka endpoints via configuration
+2019-09-26 16:18:37,668 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Disable delta property : false
+2019-09-26 16:18:37,668 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Single vip registry refresh property : null
+2019-09-26 16:18:37,668 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Force full registry fetch : false
+2019-09-26 16:18:37,669 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Application is null : false
+2019-09-26 16:18:37,669 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Registered Applications size is zero : true
+2019-09-26 16:18:37,669 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Application version is -1: true
+2019-09-26 16:18:37,669 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Getting all instance registry info from the eureka server
+2019-09-26 16:18:37,795 INFO com.netflix.discovery.DiscoveryClient [restartedMain] The response status is 200
+2019-09-26 16:18:37,799 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Starting heartbeat executor: renew interval is: 30
+2019-09-26 16:18:37,801 INFO com.netflix.discovery.InstanceInfoReplicator [restartedMain] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2019-09-26 16:18:37,805 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1569532717804 with initial instances count: 1
+2019-09-26 16:18:37,810 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [restartedMain] Registering application SPRING-CLOUD-ZUUL-SERVER with eureka with status UP
+2019-09-26 16:18:37,811 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Saw local status change event StatusChangeEvent [timestamp=1569532717811, current=UP, previous=STARTING]
+2019-09-26 16:18:37,814 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_SPRING-CLOUD-ZUUL-SERVER/192.168.5.248:spring-cloud-zuul-server:8765: registering service...
+2019-09-26 16:18:37,846 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_SPRING-CLOUD-ZUUL-SERVER/192.168.5.248:spring-cloud-zuul-server:8765 - registration status: 204
+2019-09-26 16:18:37,870 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8765 (http) with context path ''
+2019-09-26 16:18:37,871 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [restartedMain] Updating port to 8765
+2019-09-26 16:18:38,041 INFO com.everis.springcloudzuulserver.Application [restartedMain] Started Application in 6.984 seconds (JVM running for 7.845)
+2019-09-26 16:23:37,683 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2019-09-26 16:23:49,344 INFO com.netflix.config.ChainedDynamicProperty [http-nio-8765-exec-1] Flipping property: spring-cloud-exchange-rest.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2019-09-26 16:23:49,370 INFO com.netflix.util.concurrent.ShutdownEnabledTimer [http-nio-8765-exec-1] Shutdown hook installed for: NFLoadBalancer-PingTimer-spring-cloud-exchange-rest
+2019-09-26 16:23:49,371 INFO com.netflix.loadbalancer.BaseLoadBalancer [http-nio-8765-exec-1] Client: spring-cloud-exchange-rest instantiated a LoadBalancer: DynamicServerListLoadBalancer:{NFLoadBalancer:name=spring-cloud-exchange-rest,current list of Servers=[],Load balancer stats=Zone stats: {},Server stats: []}ServerList:null
+2019-09-26 16:23:49,377 INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer [http-nio-8765-exec-1] Using serverListUpdater PollingServerListUpdater
+2019-09-26 16:23:49,398 INFO com.netflix.config.ChainedDynamicProperty [http-nio-8765-exec-1] Flipping property: spring-cloud-exchange-rest.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2019-09-26 16:23:49,399 INFO com.netflix.loadbalancer.DynamicServerListLoadBalancer [http-nio-8765-exec-1] DynamicServerListLoadBalancer for client spring-cloud-exchange-rest initialized: DynamicServerListLoadBalancer:{NFLoadBalancer:name=spring-cloud-exchange-rest,current list of Servers=[192.168.5.248:8000],Load balancer stats=Zone stats: {defaultzone=[Zone:defaultzone;	Instance count:1;	Active connections count: 0;	Circuit breaker tripped count: 0;	Active connections per server: 0.0;]
+},Server stats: [[Server:192.168.5.248:8000;	Zone:defaultZone;	Total Requests:0;	Successive connection failure:0;	Total blackout seconds:0;	Last connection made:Wed Dec 31 18:00:00 CST 1969;	First connection made: Wed Dec 31 18:00:00 CST 1969;	Active Connections:0;	total failure count in last (1000) msecs:0;	average resp time:0.0;	90 percentile resp time:0.0;	95 percentile resp time:0.0;	min resp time:0.0;	max resp time:0.0;	stddev resp time:0.0]
+]}ServerList:org.springframework.cloud.netflix.ribbon.eureka.DomainExtractingServerList@28f569b1
+2019-09-26 16:23:50,382 INFO com.netflix.config.ChainedDynamicProperty [PollingServerListUpdater-0] Flipping property: spring-cloud-exchange-rest.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647
+2019-09-26 16:26:31,746 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [Thread-2] Unregistering application SPRING-CLOUD-ZUUL-SERVER with eureka with status DOWN
+2019-09-26 16:26:31,747 WARN com.netflix.discovery.DiscoveryClient [Thread-2] Saw local status change event StatusChangeEvent [timestamp=1569533191747, current=DOWN, previous=UP]
+2019-09-26 16:26:31,748 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_SPRING-CLOUD-ZUUL-SERVER/192.168.5.248:spring-cloud-zuul-server:8765: registering service...
+2019-09-26 16:26:31,751 INFO org.springframework.cloud.netflix.zuul.ZuulFilterInitializer [Thread-2] Stopping filter initializer
+2019-09-26 16:26:31,759 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_SPRING-CLOUD-ZUUL-SERVER/192.168.5.248:spring-cloud-zuul-server:8765 - registration status: 204
+2019-09-26 16:26:31,760 INFO com.netflix.util.concurrent.ShutdownEnabledTimer [Thread-2] Shutdown hook removed for: NFLoadBalancer-PingTimer-spring-cloud-exchange-rest
+2019-09-26 16:26:31,776 INFO org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-2] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-26 16:26:31,787 INFO com.netflix.discovery.DiscoveryClient [Thread-2] Shutting down DiscoveryClient ...
+2019-09-26 16:26:34,789 INFO com.netflix.discovery.DiscoveryClient [Thread-2] Unregistering ...
+2019-09-26 16:26:34,802 INFO com.netflix.discovery.DiscoveryClient [Thread-2] DiscoveryClient_SPRING-CLOUD-ZUUL-SERVER/192.168.5.248:spring-cloud-zuul-server:8765 - deregister  status: 200
+2019-09-26 16:26:34,818 INFO com.netflix.discovery.DiscoveryClient [Thread-2] Completed shut down of DiscoveryClient

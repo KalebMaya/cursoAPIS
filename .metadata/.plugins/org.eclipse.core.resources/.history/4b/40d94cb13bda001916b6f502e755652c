@@ -1,7 +1,0 @@
-package com.everis.equipouno.service;
-
-@Repository
-public class UsuarioRepository {
-
-	
-}

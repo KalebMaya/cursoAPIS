@@ -1,9 +1,0 @@
-package com.everis.equipo1frontendsemana2.controller;
-
-import javax.annotation.ManagedBean;
-
-//controlador del lado del frontend 
-@ManagedBean
-public class RatingController {
-
-}

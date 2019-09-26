@@ -1,5 +1,0 @@
-package com.everis.springcloudconfigrest.model;
-
-public class Configuracion {
-
-}

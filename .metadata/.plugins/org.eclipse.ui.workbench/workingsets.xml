@@ -5,5 +5,7 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1569266041461_3" label="6-spring-boot-jpa-relaciones" name="6-spring-boot-jpa-relaciones"/>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1569269803636_4" label="1-spring-cloud-config-rest" name="1-spring-cloud-config-rest"/>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1569269819571_5" label="1-spring-cloud-config-server" name="1-spring-cloud-config-server"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1569424173866_6" label="1-spring-cloud-conversion-rest" name="1-spring-cloud-conversion-rest"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1569428839042_7" label="1-spring-cloud-exchange-rest" name="1-spring-cloud-exchange-rest"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1568049571392_2" label="Window Working Set" name="Aggregate for window 1568049571392"/>
 </workingSetManager>
