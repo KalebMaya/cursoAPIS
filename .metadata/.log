@@ -9695,3 +9695,117 @@ java.lang.UnsupportedOperationException: No language server has registered to ha
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:13.537
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MZxJPpkB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:13.705
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.MZxJPpkB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:13.849
+!MESSAGE Preparing classpath changed notification 7-spring-boot-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:13.868
+!MESSAGE Preparing classpath changed notification 7-spring-boot-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:13.949
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:13.976
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:13.990
+!MESSAGE subsribers = {sts4.classpath.Wmdchdmc=Send Classpath Notifications(124)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.041
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.052
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.063
+!MESSAGE buffering callback sts4.classpath.Wmdchdmc 7-spring-boot-security false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.080
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.MZxJPpkB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.155
+!MESSAGE Preparing classpath changed notification 7-spring-boot-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.270
+!MESSAGE buffering callback sts4.classpath.MZxJPpkB 7-spring-boot-security false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.441
+!MESSAGE Preparing classpath changed notification 7-spring-boot-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.522
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.544
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.626
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.665
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.722
+!MESSAGE buffering callback sts4.classpath.Wmdchdmc 7-spring-boot-security false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.779
+!MESSAGE Preparing classpath changed notification 7-spring-boot-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.841
+!MESSAGE buffering callback sts4.classpath.MZxJPpkB 7-spring-boot-security false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.881
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.902
+!MESSAGE Preparing classpath changed notification 7-spring-boot-security
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.916
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.935
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.962
+!MESSAGE buffering callback sts4.classpath.Wmdchdmc 7-spring-boot-security false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:14.980
+!MESSAGE classpath=83 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:15.002
+!MESSAGE executing callback sts4.classpath.Wmdchdmc 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:15.014
+!MESSAGE buffering callback sts4.classpath.MZxJPpkB 7-spring-boot-security false 83
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:15.016
+!MESSAGE executing callback sts4.classpath.Wmdchdmc FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:15.048
+!MESSAGE executing callback sts4.classpath.MZxJPpkB 3 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-10-06 12:13:15.170
+!MESSAGE executing callback sts4.classpath.MZxJPpkB FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-10-06 12:13:15.218
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.Wmdchdmc'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2019-10-06 12:13:15.252
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.MZxJPpkB'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:197)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<list key="installedFeatures">
 		<item value="com.ianbrandt.tools.m2e.mdp.feature:0.0.4.201409291703"/>
-		<item value="org.eclipse.buildship:3.1.2.v20190903-1732"/>
+		<item value="org.eclipse.buildship:3.1.0.v20190501-0832"/>
 		<item value="org.eclipse.egit.gitflow.feature:5.4.0.201906121030-r"/>
 		<item value="org.eclipse.egit:5.4.0.201906121030-r"/>
 		<item value="org.eclipse.emf.common:2.16.0.v20190528-0845"/>
@@ -33,10 +33,8 @@
 		<item value="org.eclipse.wst.json_ui.feature:1.1.5.v201904210526"/>
 		<item value="org.eclipse.wst.web_ui.feature:3.13.0.v201905301652"/>
 		<item value="org.eclipse.wst.xml_ui.feature:3.14.0.v201905291408"/>
-		<item value="org.hibernate.eclipse.feature:5.4.5.v20190604-1228"/>
 		<item value="org.jboss.tools.m2e.wro4j.feature:1.1.0.201406251020"/>
 		<item value="org.jboss.tools.maven.apt.feature:1.5.2.201812241535"/>
-		<item value="org.jboss.tools.usage.feature:2.2.202.v20181101-1129"/>
 		<item value="org.sonatype.m2e.buildhelper.feature:0.15.0.201207090124"/>
 		<item value="org.sonatype.m2e.egit.feature:0.15.1.201806191431"/>
 		<item value="org.sonatype.m2e.mavenarchiver.feature:0.17.4.201905300046"/>
