@@ -3,29 +3,47 @@ package com.everis.security.controllers;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RestController;
+import javax.annotation.ManagedBean;
+import javax.faces.application.FacesMessage;
+import javax.faces.context.FacesContext;
 
-@RestController
+@ManagedBean
 public class PaisesController {
 
-	private static List<String> paises = new ArrayList<>();
+	private List<String> paises = new ArrayList<>();
+	private String nombredePais;
+
+	public void guardar() throws Exception {//metodo para guardar cursos
+		paises.add(nombredePais);
+		String mensaje = "Pais guardado";
+		FacesMessage message = new FacesMessage(FacesMessage.SEVERITY_INFO, "Guardar pais", 
+				mensaje);
+		FacesContext.getCurrentInstance().addMessage(null, message);
+		//hay que agregar un componente a la vista que reciba esto
+	}
 	
-	@GetMapping("/paises")
-	public List<String> consultar(){
+	public void borrar() throws Exception {//metodo para guardar cursos
+		paises.remove(nombredePais);
+		String mensaje = "Pais borrado";
+		FacesMessage message = new FacesMessage(FacesMessage.SEVERITY_INFO, "Borrar pais", 
+				mensaje);
+		FacesContext.getCurrentInstance().addMessage(null, message);
+		//hay que agregar un componente a la vista que reciba esto
+	}
+
+	public List<String> getPaises() {
 		return paises;
 	}
-	
-	@PostMapping("/paises/{pais}")
-	public void insertar(@PathVariable String pais) {
-		paises.add(pais);
+
+	public void setPaises(List<String> paises) {
+		this.paises = paises;
 	}
-	
-	@DeleteMapping("/paises/{pais}")
-	public void eliminar(@PathVariable String pais) {
-		paises.remove(pais);
+
+	public String getNombredePais() {
+		return nombredePais;
+	}
+
+	public void setNombredePais(String nombredePais) {
+		this.nombredePais = nombredePais;
 	}
 }

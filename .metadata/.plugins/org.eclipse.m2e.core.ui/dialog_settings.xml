@@ -66,10 +66,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\Dell\Desktop\cursoAPIS\3-jee"/>
-			<item value="C:\Users\Dell\Desktop\cursoAPIS\5-spring-boot-jpa"/>
 			<item value="C:\Users\Dell\Desktop\cursoAPIS\equipo1-frontend-semana2"/>
 			<item value="C:\Users\Dell\Desktop\cursoAPIS\7-spring-boot-security"/>
+			<item value="C:\Users\Dell\Desktop\cursoAPIS\3-jee"/>
+			<item value="C:\Users\Dell\Desktop\cursoAPIS\5-spring-boot-jpa"/>
 			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\1-spring-cloud-exchange-rest"/>
 			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\examen1-academia"/>
 			<item value="C:\Users\Dell5458\Desktop\trabajos Kaleb\1-spring-cloud-conversion-rest"/>
